@@ -88,5 +88,8 @@ A significantly modified port of [Cameron DaCamara's `fredbuf`](https://github.c
 ```
 Hover over any highlighted token to instantly see its exact **Tree-sitter** capture name and scope hierarchy. This is a useful tool for theme authors and language grammar developers.
 
+# Notes
+Since Windows is my primary target platform, all code has been developed and adapted exclusively for it. Rudimentary support for other platforms has been added, but it still requires testing and further adaptation. Sorry for the inconvenience!
+
 # License
 This work is licensed under the terms of the MIT license. For a copy, see <https://opensource.org/licenses/MIT>.
